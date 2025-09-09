@@ -95,7 +95,7 @@ Thanks to the open hardware/software community for the inspiration and the tools
 ## 📧 Contact
 
 For questions, collaboration, or sharing your build:  
-**Email**: [your-email@example.com]  
+**Email**: [19041104@itdurango.edu.mx]  
 **GitHub Issues**: Open an issue in this repo  
 
 ---
